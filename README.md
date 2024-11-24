@@ -14,7 +14,6 @@ This repository contains tasks and projects related to machine learning, complet
 - **Description:** Develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
 - **Files:**
   - `iris_flower_classification.ipynb`
-  - `dataset.csv`
 
 ### 3. Titanic Survival Prediction
 - **Description:** Build a model that predicts whether a passenger on the Titanic survived or not.
