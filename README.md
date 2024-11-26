@@ -8,14 +8,14 @@ This repository contains tasks and projects related to machine learning, complet
 ### 1. Credit Card Fraud Detection
 - **Description:** Identifies fraudulent credit card transactions using machine learning.
 - **Files:**
-  - `credit_card_fraud_detection.ipynb`
+  - `creditcard.ipynb`
 
 ### 2. Iris Flower Classification
 - **Description:** Develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
 - **Files:**
-  - `iris_flower_classification.ipynb`
+  - `IRIS.ipynb`
 
 ### 3. Titanic Survival Prediction
 - **Description:** Build a model that predicts whether a passenger on the Titanic survived or not.
 - **Files:**
-  - `titanic_survival_prediction.ipynb`
+  - `titanic.ipynb`
